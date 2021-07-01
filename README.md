@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
 
-## Regras
+## 📘 Regras
 
 - Cadastro de usuário
 
